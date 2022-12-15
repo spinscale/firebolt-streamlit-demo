@@ -3,13 +3,13 @@
 This is a streamlit demo using the [GitHub archive
 data](https://www.gharchive.org/) indexed into Firebolt.
 
-![Overview](main.png)
+![Overview](img/main.png)
 
-![Repository info](repo-info.png)
+![Repository info](img/repo-info.png)
 
-![Bots vs. Humans](bots-vs-humans.png)
+![Bots vs. Humans](img/bots-vs-humans.png)
 
-![User info](user-info.png)
+![User info](img/user-info.png)
 
 You need to configure four environment variables in  your environment (or just
 put them into an `.env` file as `pipenv` reads that one automatically.
